@@ -25,3 +25,37 @@ You've installed Visual Studio Code and a tour of the user interface demonstrate
   ```
     dotnet run
   ```
+
+
+# The C# programming language allows you to build many types of applications, like:
+
+- Business applications to capture, analyze, and process data
+- Dynamic web applications that can be accessed from a web browser
+- Games, both 2D and 3D
+- Financial and scientific applications
+- Cloud-based applications
+- Mobile applications
+
+In this module, you'll:
+
+- Write your first lines of C# code.
+- Use two different techniques to print a message as output.
+- Diagnose errors when code is incorrect.
+- Identify different C# syntax elements like operators, classes, and methods.
+
+# C# is
+- C# is a case-sensitive 
+- Use double quotation marks to define a string
+  ```
+  Console.WriteLine(''Hello World!'');
+  ```
+  Console part is called a class
+  Classes "own" methods; or you could say that methods live inside of a class
+  WriteLine() part is called a method
+   The parentheses are known as the method invocation operator
+   the semicolon is the end of statement operator
+
+The difference between Console.Write and Console.WriteLine
+- Console.Write is used to print a message without a new line
+- Console.WriteLine is used to print a message with a new line
+- syntax: rules for writing C# code is called syntax.
